@@ -11,7 +11,9 @@ Two good starting points are:
 
 * [Advice for new contributors](https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/)
 * [Writing your first patch for Django](https://docs.djangoproject.com/en/dev/intro/contributing/) (Tutorial)
+* [Running the unit tests](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/)
 
+The last one there is a good _Quickstart_.
 
 ## Getting set up with the code
 
