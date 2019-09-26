@@ -79,7 +79,10 @@ Here's a graph showing it:
 The numbers may be slightly outdated but the ordering and relative scale will
 be about right.
 
-Documentation tickets are another good place to look. There's a lot of them. They're a great way to learn, since you need to really understand an issue in order to be able to state clearly what's happening in the docs.
+[Documentation tickets](https://code.djangoproject.com/query?status=assigned&status=new&component=Documentation&col=id&col=summary&col=status&col=owner&col=type&col=component&col=version&desc=1&order=id)
+ are another good place to look. There's a lot of them. They're a great way to
+ learn, since you need to really understand an issue in order to be able to
+ state clearly what's happening in the docs.
 
 When you look at a ticket, you won't understand it instantly. It takes a bit of time to dig in and work out what's going on. That's true for everyone, fellows, veteran contributors and newcomers alike.
 
