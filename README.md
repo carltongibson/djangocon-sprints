@@ -48,7 +48,7 @@ lets you test against all the supported DBs.
 
 Django uses Trac for issues and GitHub for PRs.
 
-<code.djangoproject.com>
+https://code.djangoproject.com
 
 Trac is a bit different from GitHub Issues. It's more powerful, and it has the
 history from the many years of Django's history.
