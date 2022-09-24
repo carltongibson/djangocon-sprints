@@ -55,7 +55,7 @@ to make sense. (Hopefully anyway… 🙂)
 
 
 - Visit https://code.djangoproject.com/query — It will show all open tickets.
-  Some 1300-odd. That's too many. We need to filter if we're going to get
+  Around 1000. That's too many. We need to filter if we're going to get
   anywhere.
 
 - Visit https://dashboard.djangoproject.com — this shows some number and the
@@ -96,6 +96,8 @@ There's around a hundred, or so.
 
 Many of these have patches but are stuck needing clearer documentation. Again,
 this can be a good place to come in and help finish a PR off.
+
+Filter for [Patch needs improvement]([url](https://code.djangoproject.com/query?status=assigned&status=new&needs_better_patch=1&desc=1&order=id)): these are tickets that have already been worked on but not yet finished. The ones that haven't been updated for a while might be good candidates to pick up and finis off.  
 
 One final place to look, is on GitHub at the open PRs. Sort by Least Recently Updated. How come a PR hasn't been closed but hasn't been worked on either. These may be towards the more challenging end — or it may be the _Needs Documentation_ type issue that we just saw — but can you find a PR to help finish off here?
 
