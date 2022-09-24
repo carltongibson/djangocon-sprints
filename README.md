@@ -92,7 +92,7 @@ But most tickets aren't any harder than the problems you solve every day with Dj
 
 Here's a filter for [Needs
 Documentation](https://code.djangoproject.com/query?status=assigned&status=new&needs_docs=1&col=id&col=summary&col=status&col=component&col=owner&col=type&col=version&desc=1&order=id).
-There's a hundred or so.
+There's around a hundred, or so.
 
 Many of these have patches but are stuck needing clearer documentation. Again,
 this can be a good place to come in and help finish a PR off.
