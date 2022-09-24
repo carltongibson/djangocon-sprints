@@ -1,4 +1,4 @@
-# dcus2019sprints
+# Welcome to the DjangoCon Sprints
 Notes for "Getting started contributing to Django" sprints workshop.
 
 
