@@ -31,12 +31,6 @@ This should run the tests locally against SQLite. They should pass.
 If you have difficulties installing the requirements, there may be missing
 dependencies and such. We'll have to look into those. Reach out.
 
-**On macoOS?**: you may need to set an environment variable to run the tests:
-
-    export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES
-
-
-
 
 ### Using Docker
 
