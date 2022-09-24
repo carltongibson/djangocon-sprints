@@ -24,6 +24,7 @@ The goals is to get Django source code and be able to run the test suite.
 3. Create a virtual environment.
 4. Install Django as _editable_: `pip install -e .`
 5. Run the tests. `./tests/runtests.py`
+6. Alternatively run tests matching test name pattern. `./tests/runtests.py -k <<test name>>`
 
 This should run the tests locally against SQLite. They should pass.
 
