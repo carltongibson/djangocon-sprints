@@ -23,10 +23,13 @@ The goals is to get Django source code and be able to run the test suite.
 2. `git clone` your fork. — You've now got Django's source code on your laptop. 💃
 3. Create a virtual environment.
 4. Install Django as _editable_: `pip install -e .`
-5. Install the test requirements. `cd tests && pip install -r requirements/py3.txt`
-6. Run the tests. `./runtests.py`
+5. Run the tests. `./runtests.py`
 
 This should run the tests locally against SQLite. They should pass.
+
+Optional: Install the test requirements for extras to run **more** tests:
+
+    cd tests && pip install -r requirements/py3.txt
 
 If you have difficulties installing the requirements, there may be missing
 dependencies and such. We'll have to look into those. Reach out.
