@@ -21,10 +21,10 @@ The goals is to get Django source code and be able to run the test suite.
 
 1. Fork the main [django/django](https://github.com/django/django) repo on GitHub
 2. `git clone` your fork. — You've now got Django's source code on your laptop. 💃
-3. Create a virtual environment.
+3. Create a virtual environment: `python3 -m venv .venv && source .venv/bin/activate`
 4. Install Django as _editable_: `pip install -e .`
-5. Run the tests. `./tests/runtests.py`
-6. Alternatively run tests matching test name pattern. `./tests/runtests.py -k <<test name>>`
+5. Run the tests. `./tests/runtests.py` (if not working try to install the "Optional" dependencies or restart)
+6. Alternatively run tests matching test name pattern. `./tests/runtests.py -k <<test name>>` (e.g. `./tests/runtests.py -k admin_scripts.tests.DjangoAdminDefaultSettings.test_builtin_with_settings`)
 
 This should run the tests locally against SQLite. They should pass.
 
